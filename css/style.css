@@ -1,0 +1,23 @@
+body {
+  background-color: powderblue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;;
+  border-color: grey;
+  width: 5%;
+}
+
+h1{
+  color: #480032;
+  font-family: Times New Roman;
+}
+h3{
+  color: #bf1363;
+  font-family: Times New Roman;
+}
+p{
+  font-family:Brush Script MT
+}
